@@ -5,4 +5,4 @@ It is a multiclass classification problem with the class labels as,
   1- Mild,
   2- Moderate,
   3- Severe,
-  4- Proliferative DR
+  4- Proliferative DR.
