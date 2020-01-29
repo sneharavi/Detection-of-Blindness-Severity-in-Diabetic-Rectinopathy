@@ -1,0 +1,2 @@
+# Detection of Blindness Severity in Diabetic Rectinopathy
+The main objective of this project is to build a machine learning model that cna classify images on the severity of Diabetic Retinopathy of patient's eye. The models used should be able to work fast on the input images and have enough accuracy to be able to be used by a doctor reliably.
